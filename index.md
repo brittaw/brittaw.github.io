@@ -1,4 +1,4 @@
-## Welcome to MY GitHub Page
+## Welcome! I **did** something! Wow! 
 
 You can use the [editor on GitHub](https://github.com/brittaw/brittaw.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
